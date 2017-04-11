@@ -1,4 +1,4 @@
-####AngularJS几个简单的demo，分别表示它的几大特性  
+## AngularJS几个简单的demo，分别表示它的几大特性  
 mvc-demo.html:  MVC三层独立
   
 module-demo.html:模块化
